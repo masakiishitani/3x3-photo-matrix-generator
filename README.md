@@ -94,6 +94,17 @@ Issues、Pull Requestsを歓迎します！
 - 機能要望: [Issues](../../issues)
 - 質問: [Discussions](../../discussions)
 
+## 🔗 関連リンク
+
+- **MakeShop Print-on-Demand**: https://www.makeshop.jp/main/function/print-on-demand/
+- **Printio（印刷パートナー）**: MakeShopの印刷サービスを提供
+
+## 📋 クレジット
+
+このシステムは以下のサービス仕様に準拠して開発されました：
+- **MakeShop**: ECサイト構築・Print-on-Demandサービス
+- **Printio**: 高品質印刷サービスプロバイダー
+
 ---
 
 **Powered by Manus AI** 🤖
