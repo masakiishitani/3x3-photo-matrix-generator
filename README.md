@@ -1,6 +1,6 @@
 # 3×3写真マトリクス生成システム
 
-MakeShop Print-on-Demand対応の写真マトリクス自動生成システム
+MakeShop Print-on-Demand対応のManusを使って作成する写真マトリクス自動生成システム
 
 ## 🎯 概要
 
